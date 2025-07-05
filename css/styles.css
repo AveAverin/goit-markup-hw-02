@@ -1,0 +1,15 @@
+body {
+    font-family: "Roboto";
+    color: black;
+    background-color: #fcfcfc;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
